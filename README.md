@@ -6,7 +6,7 @@ I created this repo to track my daily progress, experiments, and coding exercise
 ---
 
 ## 📌 About
-- Started learning **Backend Development** (Day 1: [Date you began])  
+- Started learning **Backend Development** (Day 1: [01-sep-2025])  
 - Following **Akshay Saini's guidance** to build a strong foundation  
 - Hands-on practice with Node.js, JavaScript, and backend fundamentals  
 
